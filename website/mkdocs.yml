@@ -1,0 +1,7 @@
+site_name: My Docs
+site_url: https://bi5m.com
+
+nav:
+  - Home: index.md
+  - Before Getting Started: before-getting-started.md
+  - Getting Started: getting-started.md
